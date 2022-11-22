@@ -38,14 +38,6 @@ user_1.display_info().enroll().spend_points(50)
 user_2.display_info().enroll().spend_points(80)
 user_3.display_info().spend_points(40)
 
-# user_1.display_info()
-# user_2.display_info()
-# user_3.display_info()
-
-# user_1.spend_points(50)
-# user_2.spend_points(80)
-# user_3.spend_points(240)
-
 print(user_1.is_rewards_member)
 print(user_2.is_rewards_member)
 print(user_3.is_rewards_member)
